@@ -1,8 +1,8 @@
 # 👋 Hi, I'm In Young (my first name comes in two words!)
 
+🌎 Building tech for climate resilience and justice
 🎓 Former political economy researcher  
 🔧 Now working at the intersection of **machine learning**, **environmental sensing**, and **sustainable materials innovation**  
-🌎 Focused on climate resilience and justice-driven technologies
 
 ---
 
