@@ -9,7 +9,7 @@
 My work has always been guided by a core question:  
 **Why are some communities systematically worse off—and what can we do about it?**
 
-I began by studying this through the lens of international political economy, using game theory and statistical modeling to explore how winners and losers are created through global policymaking. Over time, my focus shifted toward the *material consequences* of inequality—pollution, neglected infrastructure, and visible waste. These patterns weren’t abstract; they reflected my own lived experience growing up in South Korea, and what I saw echoed in communities affected by environmental neglect.
+I began by studying this through the lens of international political economy, using game theory and statistical modeling to explore how winners and losers are created through global policymaking. Over time, my focus shifted toward the *material consequences* of inequality—pollution, neglected infrastructure, and visible waste. These patterns weren’t abstract; they reflected what I saw and lived growing up in parts of South Korea shaped by environmental and economic neglect.
 
 As climate change emerged as a global crisis, I began connecting the dots between systemic injustice and environmental harm. That shift led me to focus on **climate resilience**, where I now apply data science, machine learning, and materials engineering to build tools that reduce pollution and improve conditions in underserved communities.
 
