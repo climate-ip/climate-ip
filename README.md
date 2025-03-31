@@ -1,23 +1,26 @@
 # 👋 Hi, I'm In Young (my first name comes in two words!)
 
-I'm a political economy researcher turned engineer, currently pivoting into applied machine learning for environmental sensing and materials innovation.
-
-My work has been driven by one core question: **Why are some communities systematically worse off—and how can we change that?** I first approached this problem through the lens of international political economy, using tools like game theory and statistical modeling to understand how winners and losers are created and sustained through global policymaking.
-
-As my research deepened, I became more attuned to how environmental conditions—like neglected infrastructure, pollution, and visible waste—mirror and reinforce social and economic disparities. These weren’t abstract patterns; they echoed what I had experienced growing up, and what I saw reflected in communities most affected by environmental neglect.
-
-Around the same time, climate change was becoming a more urgent and widely recognized global issue. That shift helped me connect the dots between systemic inequality and environmental harm.
-
-I began focusing on the environmental dimensions of injustice, especially where they intersect with climate risk and unequal access to resilience. Now, I’m exploring how data science, machine learning, and sustainable materials innovation can be used to create solutions that reduce pollution and support climate resilience in underserved communities.
+🎓 Former political economy researcher  
+🔧 Now working at the intersection of **machine learning**, **environmental sensing**, and **sustainable materials innovation**  
+🌎 Focused on climate resilience and justice-driven technologies
 
 ---
 
-🔬 **Currently working on:**
-- **RADAR** – A natural language processing pipeline to detect urgent animal rescue signals from social media posts (text classification, sentiment, and urgency detection)
-- **Trash Traceback Engine** – A computer vision and geospatial ML project to identify marine pollution hotspots and trace their likely upstream sources using satellite imagery and clustering techniques
+My work has always been guided by a core question:  
+**Why are some communities systematically worse off—and what can we do about it?**
 
-📘 Portfolio projects coming soon—follow along as I build!
+I began by studying this through the lens of international political economy, using game theory and statistical modeling to explore how winners and losers are created through global policymaking. Over time, my focus shifted toward the *material consequences* of inequality—pollution, neglected infrastructure, and visible waste. These patterns weren’t abstract; they reflected my own lived experience growing up in South Korea, and what I saw echoed in communities affected by environmental neglect.
+
+As climate change emerged as a global crisis, I began connecting the dots between systemic injustice and environmental harm. That shift led me to focus on **climate resilience**, where I now apply data science, machine learning, and materials engineering to build tools that reduce pollution and improve conditions in underserved communities.
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ip-biocode/) | 📬 [Email](mailto:ip@bu.edu)
+## 🔬 Currently Building
+
+- **RADAR** – NLP pipeline to detect urgent animal rescue signals in social media (text classification, sentiment & urgency detection)
+- **Trash Traceback Engine** – Computer vision & geospatial ML for identifying marine pollution hotspots and tracing upstream sources
+
+---
+
+📘 Portfolio projects coming soon—follow along as I build  
+🔗 [LinkedIn](https://www.linkedin.com/in/ip-biocode/) | 📬 [Email me](mailto:ip@bu.edu)
