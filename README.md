@@ -7,7 +7,7 @@
 ---
 
 My work has always been guided by a core question:  
-**Why are some communities systematically worse off—and what can we do about it?**
+**Why are some communities systematically and persistently worse off—and how can we change that?**
 
 I began by studying this through the lens of international political economy, using game theory and statistical modeling to explore how winners and losers are created through global policymaking. Over time, my focus shifted toward the *material consequences* of inequality—pollution, neglected infrastructure, and visible waste. These patterns weren’t abstract; they reflected what I saw and lived growing up in parts of South Korea shaped by environmental and economic neglect.
 
