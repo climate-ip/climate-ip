@@ -42,7 +42,9 @@ applying **data science**, **machine learning**, and **materials engineering** t
 ### 🔬 **Currently Building**
 
 - **RADAR**: NLP system for surfacing animal abuse reports and early ecological distress from social media posts  
-- **Trash Traceback Engine**: Computer vision & geospatial ML for identifying marine pollution hotspots and tracing upstream sources
+- **Trash Traceback Engine**: Computer vision & geospatial ML for identifying marine pollution hotspots and tracing upstream sources  
+- **PFAS Chemisensor**: Wet lab-based materials project, currently experimental, focused on monitoring PFAS ("forever chemicals") using iron oxide nanoparticles; future work may explore signal processing & real-time detection analytics  
+
 
 ---
 
