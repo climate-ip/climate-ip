@@ -41,7 +41,7 @@ applying **data science**, **machine learning**, and **materials engineering** t
 
 ### 🔬 **Currently Building**
 
-- **RADAR**: NLP pipeline to detect urgent animal rescue signals in social media (text classification, sentiment & urgency detection)
+- **RADAR**: NLP system for surfacing animal abuse reports and early ecological distress from social media posts  
 - **Trash Traceback Engine**: Computer vision & geospatial ML for identifying marine pollution hotspots and tracing upstream sources
 
 ---
