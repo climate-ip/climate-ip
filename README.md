@@ -35,20 +35,11 @@ from high-level models to the **visible, material fallout**: in particular, the 
 ### 🔨 **What I’m Building Now**
 
 I’m building tools for **climate resilience** —  
-applying **data science**, **machine learning**, and **materials engineering** to reduce pollution and restore dignity in the places that have long been left behind, and help **actively bring about the very change I once studied from a distance**.
-
----
-
-### 🔬 **Currently Building**
+applying **data science**, **machine learning**, and **materials engineering** to reduce pollution and restore dignity in the places that have long been left behind, and help **actively bring about the very change I once studied from a distance**:  
 
 - **RADAR**: NLP system for surfacing animal abuse reports and early ecological distress from social media posts  
 - **Trash Traceback Engine**: Computer vision & geospatial ML for identifying marine pollution hotspots and tracing upstream sources  
 - **PFAS Chemisensor**: Wet lab-based materials project, currently experimental, focused on monitoring PFAS ("forever chemicals") using iron oxide nanoparticles; future work may explore signal processing & real-time detection analytics  
-
-
----
-
-### 📘 **Portfolio Projects Coming Soon**
 
 Follow along as I build, ship, and scale.  
 
